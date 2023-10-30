@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "Rajdhani";
+    src: url("hehe.ttf");
+}
+
+body {
+    user-select: none;
+    margin: 0px;
+    width: 100vw;
+    height: 100vh;
+    background-color: #222;
+    color: white;
+    font-family: "Rajdhani";
+    font-size: 10rem;
+    display: flex;
+    align-items: center;
+	justify-content: center;
+}
